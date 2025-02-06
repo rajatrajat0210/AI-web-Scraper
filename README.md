@@ -1,6 +1,6 @@
 # AI-web-Scraper
 # 🌐 AI Web Scraper with Streamlit, Ollama, and BrightData 🚀
-![image alt]()
+![image alt](https://github.com/rajatrajat0210/AI-web-Scraper/blob/main/ai_scraper.jpg?raw=true)
 
 Welcome to the **AI Web Scraper**! This project leverages **Streamlit** for an intuitive user interface, **Ollama** for AI-powered analysis, Selenium for Scraping Websites and **BrightData** to unblock websites and handle CAPTCHAs seamlessly. Whether you’re scraping data for research or analysis, this tool ensures a smooth experience while bypassing common website blockers.
 
